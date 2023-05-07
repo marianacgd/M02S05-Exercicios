@@ -43,7 +43,7 @@ namespace contas_do_banco.Service
         private static void CriarContaPessoaFisica(){
             var clientePF = new PessoaFisica();
             
-            Console.WriteLine("Digite a Data de Nascimento");
+            Console.WriteLine("Digite a Data de Nascimento: (dd/mm/aaaa)");
 
             clientePF.DataNascimento = DateTime.Parse(Console.ReadLine());
             

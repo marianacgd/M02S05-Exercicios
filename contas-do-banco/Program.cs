@@ -1,4 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿
 
 using contas_do_banco.Service;
 
@@ -24,7 +24,7 @@ void SelecaoMenu(string opcao){
       clienteService.CriarConta();
       break;
     case"2": 
-      Console.WriteLine("Digite o Numero da conta:");
+      Console.Write("Digite o Numero da conta:");
       int numeroConta = int.Parse(Console.ReadLine());
       var cliente = clienteService.BuscarClientePorNumeroDeConta(numeroConta);
       if (cliente == null){
