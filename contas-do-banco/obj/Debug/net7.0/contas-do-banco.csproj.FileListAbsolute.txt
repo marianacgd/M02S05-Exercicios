@@ -1,0 +1,15 @@
+C:\repositorios\M02S05-Exercicios\contas-do-banco\bin\Debug\net7.0\contas-do-banco.exe
+C:\repositorios\M02S05-Exercicios\contas-do-banco\bin\Debug\net7.0\contas-do-banco.deps.json
+C:\repositorios\M02S05-Exercicios\contas-do-banco\bin\Debug\net7.0\contas-do-banco.runtimeconfig.json
+C:\repositorios\M02S05-Exercicios\contas-do-banco\bin\Debug\net7.0\contas-do-banco.dll
+C:\repositorios\M02S05-Exercicios\contas-do-banco\bin\Debug\net7.0\contas-do-banco.pdb
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\contas-do-banco.csproj.AssemblyReference.cache
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\contas-do-banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\contas-do-banco.AssemblyInfoInputs.cache
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\contas-do-banco.AssemblyInfo.cs
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\contas-do-banco.csproj.CoreCompileInputs.cache
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\contas-do-banco.dll
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\refint\contas-do-banco.dll
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\contas-do-banco.pdb
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\contas-do-banco.genruntimeconfig.cache
+C:\repositorios\M02S05-Exercicios\contas-do-banco\obj\Debug\net7.0\ref\contas-do-banco.dll
